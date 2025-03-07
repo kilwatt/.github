@@ -1,5 +1,5 @@
 # Kilowatt 💡
-Kilowatt - langdev & osdev!
+Kilowatt - development for fun!
 
 # projects 🔋
 - ⚡ watt - simple, dynamic, scription programming language.
