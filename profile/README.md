@@ -8,4 +8,4 @@ Kilowatt - development for fun!
 # feauture ideas 🌚
 - 🌠 pulsar - task tracker for terminal written in watt.
 - 🎯 arc - 2d library for watt.
-- 🌱 volt - simple operating system.
+- 🌱 volt - simple task manager.
